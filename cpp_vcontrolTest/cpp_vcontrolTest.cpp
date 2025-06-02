@@ -2,7 +2,7 @@
 //
 // change 2 main
 #include <iostream>
-
+void conflict();
 int main()
 {
     std::cout << "Hello World!MAIN\n";
