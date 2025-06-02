@@ -1,6 +1,6 @@
 // cpp_vcontrolTest.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
+// change 2 main
 #include <iostream>
 
 int main()
